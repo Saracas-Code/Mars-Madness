@@ -46,7 +46,7 @@ Este proyecto nos permitió:
 - `/marsMadness.pdf`  
   Contiene el enunciado del proyecto y las anotaciones realizadas por el equipo.
   
-- `/Mars Madness DEFINITIVO.mdj`  
+- `/UML_Mars_Madness.mdj`  
   Archivo `.mdj` compatible con **StarUML** para visualizar los diagramas.
 
 - `/Memoria_Mars_Madness`  
